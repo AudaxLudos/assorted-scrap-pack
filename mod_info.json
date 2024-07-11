@@ -1,0 +1,26 @@
+{
+    "id": "assortedscrappack",
+    "name": "Assorted Scrap Pack",
+    "author": "Audax",
+    "version": "0.0.1",
+    "description": "A mod for Starsector that adds new content like ships, industries, quests etc.",
+    "gameVersion": "0.97a",
+    "jars": [
+        "AssortedScrapPack.jar"
+    ],
+    "modPlugin":"assortedscrappack.ModPlugin",
+    "dependencies": [
+        {
+            "id": "lunalib",
+            "name": "LunaLib"
+        },
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib"
+        },
+        {
+            "id": "shaderLib",
+            "name": "zz GraphicsLib"
+        }
+    ]
+}
