@@ -1,0 +1,110 @@
+{
+  "hullName": "Arrow Tip",
+  "hullId": "asp_arrowtip",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/asp_arrowtip.png",
+  "style": "LOW_TECH",
+  "height": 119,
+  "width": 110,
+  "center": [55, 60],
+  "collisionRadius": 90,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 90,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 119,
+      "angle": -20,
+      "locations": [-14, -26]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 119,
+      "angle": 20,
+      "locations": [-14, 26]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 83,
+      "angle": 0,
+      "locations": [-9.5, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-48, 25],
+      "length": 64,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-48, -25],
+      "length": 64,
+      "width": 12,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-44, 15.5],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-44, -15.5],
+      "length": 32,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-35.5, -9.5],
+      "length": 16,
+      "width": 6,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-35.5, 9.5],
+      "length": 16,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -35, -55,
+    -35, -55,
+    -30.5, -36.5,
+    -48.5, -26,
+    -48.5, -26,
+    -35, -9,
+    -56, -3,
+    -56, 3,
+    -35, 9,
+    -48.5, 26,
+    -48.5, 26,
+    -30.5, 36.5,
+    -35, 55,
+    -35, 55,
+    57.5, -0
+  ]
+}
