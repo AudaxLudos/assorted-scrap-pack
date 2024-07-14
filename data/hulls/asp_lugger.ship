@@ -1,0 +1,160 @@
+{
+  "hullName": "Lugger",
+  "hullId": "asp_lugger",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/ships/asp_lugger.png",
+  "style": "LOW_TECH",
+  "height": 152,
+  "width": 164,
+  "center": [82, 90],
+  "collisionRadius": 120.5,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 120.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": 32,
+      "locations": [28, 52]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 135,
+      "angle": -32,
+      "locations": [28, -52]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 127,
+      "angle": 0,
+      "locations": [46, 36]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 127,
+      "angle": -0,
+      "locations": [46, -36]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 190,
+      "angle": 90,
+      "locations": [1, 75]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 190,
+      "angle": -90,
+      "locations": [1, -75]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 195,
+      "angle": 180,
+      "locations": [-63, -0]
+    },
+    {
+      "id": "WS0008",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 20,
+      "angle": 0,
+      "locations": [51, -0]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -37, -11,
+        -41, -11
+      ]
+    },
+    {
+      "id": "LB 2",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -37, 11,
+        -41, 11
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-64, 50.5],
+      "length": 64,
+      "width": 32,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-64, -50.5],
+      "length": 64,
+      "width": 32,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-64.5, 39],
+      "length": 64,
+      "width": 32,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-64.5, -39],
+      "length": 64,
+      "width": 32,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -68.5, 13,
+    -88.5, 14.5,
+    -63.5, 30.5,
+    -58, 60,
+    -0.5, 82,
+    54, 61,
+    54, -61,
+    -0.5, -82,
+    -58, -60,
+    -63.5, -30.5,
+    -88.5, -14.5,
+    -68.5, -13
+  ]
+}
