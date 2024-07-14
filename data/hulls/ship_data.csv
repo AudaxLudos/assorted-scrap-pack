@@ -2,7 +2,8 @@ name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating
 Pinpoint,asp_pinpoint,Destroyer,High Tech,plasmajets,14,3000,300,6000,,400,100,,100,90,60,40,100,300,OMNI,,120,0.3,0.6,,,35,50,50,40,2,20,9,60000,5,20,300,0.25,14,14,,,,,,,,"rare_bp, hist1t, merc, ind",,0.7,2,3,,150
 Arrow Tip,asp_arrowtip,Heavy Frigate,Low Tech,temporalshell,8,2500,300,2500,,150,45,,130,120,100,60,120,300,FRONT,,120,0.3,1,,,35,45,40,20,1,20,10,40000,7,20,180,0.25,8,8,,,,,,,,"rare_bp, hist1t, merc, ind",,0.5,2,2,,151
 Accipiter,asp_accipiter,Destroyer,Midline,plasmajets,12,5000,500,4200,,250,95,,90,60,40,30,60,400,FRONT,,180,0.4,0.8,,,50,100,100,60,2,20,8,60000,5,12,300,0.25,12,12,,,,,,,,"rare_bp, hist1t, merc, ind",,0.5,2,3,,152
-Slugger,asp_slugger,Battlecruiser,Midline,maneuveringjets,15,11000,1200,12000,,700,155,,60,40,30,15,20,1500,FRONT,,270,0.4,0.8,,,150,250,150,100,3,33,8,130000,3,12,480,0.25,25,25,,,,,,,,"rare_bp, hist1t, merc, ind",,0.5,2,4,,153
+Slugger,asp_slugger,Heavy Cruiser,Midline,maneuveringjets,15,10000,1150,11000,,700,155,,60,40,30,15,20,1500,FRONT,,270,0.4,0.8,,,200,300,150,150,4,38,8,115000,3,12,480,0.25,22,22,,,,,,,,"rare_bp, hist1t, merc, ind",,0.5,2,4,,153
+Slugger2,asp_slugger2,Heavy Cruiser,Midline,maneuveringjets,15,10000,1150,11000,,700,155,,60,40,30,15,20,1500,FRONT,,270,0.4,0.8,,,200,300,150,150,4,38,8,115000,3,12,480,0.25,24,24,,,,,,,,"rare_bp, hist1t, merc, ind",,0.5,2,4,,154
 #Champion,champion,Heavy Cruiser,Midline,highenergyfocus,15,10000,1250,10000,11000,550,165,,60,40,30,15,20,1500,FRONT,,210,0.4,0.8,,,200,300,150,150,4,38,8,125000,4,12,480,0.25,25,25,,,,,,,,"rare_bp, merc, ind",,0.5,2,4,,401.5
 #Eagle,eagle,Cruiser,Midline,maneuveringjets,14,8000,1000,11000,14000,700,155,,60,40,30,15,20,1200,FRONT,,270,0.4,0.8,,,150,250,150,100,3,33,8,100000,3,12,480,0.25,20,20,,,,,,,,"rare_bp, merc, ind",,0.5,2,3,,401
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
