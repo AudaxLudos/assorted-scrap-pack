@@ -1,0 +1,102 @@
+{
+  "hullName": "Vespula",
+  "hullId": "asp_vespula",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/asp_vespula.png",
+  "style": "MIDLINE",
+  "coversColor": "255,255,255,255",
+  "height": 76,
+  "width": 82,
+  "center": [41, 34],
+  "collisionRadius": 51,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 80,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 110,
+      "angle": 168.5,
+      "locations": [-11, 18]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 110,
+      "angle": -168.5,
+      "locations": [-11, -18]
+    },
+    {
+      "id": "WS0003",
+      "size": "LARGE",
+      "type": "HYBRID",
+      "mount": "HARDPOINT",
+      "arc": 20,
+      "angle": 0,
+      "locations": [24, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-34.5, -8],
+      "length": 64,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-34.5, 8],
+      "length": 64,
+      "width": 12,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-33.5, -19],
+      "length": 48,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-33.5, 19],
+      "length": 48,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-32.5, -29.5],
+      "length": 32,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-32.5, 29.5],
+      "length": 48,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -18.5, -40.5,
+    -32.5, -34,
+    -32.5, 34,
+    -18.5, 40.5,
+    33, 21.5,
+    33, -21.5
+  ]
+}
